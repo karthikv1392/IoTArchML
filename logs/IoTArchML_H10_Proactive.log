@@ -1,0 +1,435 @@
+2020-05-18 11:11:33 DEBUG Logger Initialized
+2020-05-18 11:16:08 DEBUG Logger Initialized
+2020-05-18 11:16:35 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:16:35 INFO Adaptation reactive executor
+2020-05-18 11:16:35 INFO adaptation count 0 10
+2020-05-18 11:17:06 DEBUG Logger Initialized
+2020-05-18 11:17:38 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:17:38 INFO Adaptation reactive executor
+2020-05-18 11:17:38 INFO adaptation count 10 20
+2020-05-18 11:17:52 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:17:52 INFO Adaptation reactive executor
+2020-05-18 11:17:52 INFO adaptation count 10 30
+2020-05-18 11:18:07 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:18:07 INFO Adaptation reactive executor
+2020-05-18 11:18:07 INFO adaptation count 10 40
+2020-05-18 11:18:30 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:18:30 INFO Adaptation reactive executor
+2020-05-18 11:18:30 INFO adaptation count 20 60
+2020-05-18 11:18:46 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:18:46 INFO Adaptation reactive executor
+2020-05-18 11:18:46 INFO adaptation count 20 70
+2020-05-18 11:19:11 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:19:11 INFO Adaptation reactive executor
+2020-05-18 11:19:11 INFO adaptation count 30 90
+2020-05-18 11:19:26 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:19:26 INFO Adaptation reactive executor
+2020-05-18 11:19:26 INFO adaptation count 30 100
+2020-05-18 11:19:49 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:19:49 INFO Adaptation reactive executor
+2020-05-18 11:19:49 INFO adaptation count 31 110
+2020-05-18 11:20:07 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:20:07 INFO Adaptation reactive executor
+2020-05-18 11:20:07 INFO adaptation count 31 120
+2020-05-18 11:20:30 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:20:30 INFO Adaptation reactive executor
+2020-05-18 11:20:30 INFO adaptation count 41 140
+2020-05-18 11:20:45 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:20:45 INFO Adaptation reactive executor
+2020-05-18 11:20:45 INFO adaptation count 41 150
+2020-05-18 11:21:07 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:21:07 INFO Adaptation reactive executor
+2020-05-18 11:21:07 INFO adaptation count 42 160
+2020-05-18 11:21:25 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:21:25 INFO Adaptation reactive executor
+2020-05-18 11:21:25 INFO adaptation count 42 170
+2020-05-18 11:21:50 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:21:50 INFO Adaptation reactive executor
+2020-05-18 11:21:50 INFO adaptation count 52 190
+2020-05-18 11:22:05 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:22:05 INFO Adaptation reactive executor
+2020-05-18 11:22:05 INFO adaptation count 52 200
+2020-05-18 11:22:28 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:22:28 INFO Adaptation reactive executor
+2020-05-18 11:22:28 INFO adaptation count 62 220
+2020-05-18 11:22:42 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:22:42 INFO Adaptation reactive executor
+2020-05-18 11:22:42 INFO adaptation count 62 230
+2020-05-18 11:23:04 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:23:04 INFO Adaptation reactive executor
+2020-05-18 11:23:04 INFO adaptation count 63 240
+2020-05-18 11:23:22 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:23:22 INFO Adaptation reactive executor
+2020-05-18 11:23:22 INFO adaptation count 63 250
+2020-05-18 11:23:46 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:23:46 INFO Adaptation reactive executor
+2020-05-18 11:23:46 INFO adaptation count 73 270
+2020-05-18 11:24:01 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:24:01 INFO Adaptation reactive executor
+2020-05-18 11:24:01 INFO adaptation count 73 280
+2020-05-18 11:24:22 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:24:22 INFO Adaptation reactive executor
+2020-05-18 11:24:22 INFO adaptation count 74 290
+2020-05-18 11:24:41 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:24:41 INFO Adaptation reactive executor
+2020-05-18 11:24:41 INFO adaptation count 74 300
+2020-05-18 11:25:04 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:25:04 INFO Adaptation reactive executor
+2020-05-18 11:25:04 INFO adaptation count 75 310
+2020-05-18 11:25:22 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:25:22 INFO Adaptation reactive executor
+2020-05-18 11:25:22 INFO adaptation count 75 320
+2020-05-18 11:25:46 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:25:46 INFO Adaptation reactive executor
+2020-05-18 11:25:46 INFO adaptation count 85 340
+2020-05-18 11:26:02 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:26:02 INFO Adaptation reactive executor
+2020-05-18 11:26:02 INFO adaptation count 85 350
+2020-05-18 11:26:25 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:26:25 INFO Adaptation reactive executor
+2020-05-18 11:26:25 INFO adaptation count 86 360
+2020-05-18 11:26:41 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:26:41 INFO Adaptation reactive executor
+2020-05-18 11:26:41 INFO adaptation count 86 370
+2020-05-18 11:27:04 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:27:04 INFO Adaptation reactive executor
+2020-05-18 11:27:04 INFO adaptation count 96 390
+2020-05-18 11:27:19 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:27:19 INFO Adaptation reactive executor
+2020-05-18 11:27:19 INFO adaptation count 96 400
+2020-05-18 11:27:42 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:27:42 INFO Adaptation reactive executor
+2020-05-18 11:27:42 INFO adaptation count 106 420
+2020-05-18 11:27:57 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:27:57 INFO Adaptation reactive executor
+2020-05-18 11:27:57 INFO adaptation count 106 430
+2020-05-18 11:28:21 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:28:21 INFO Adaptation reactive executor
+2020-05-18 11:28:21 INFO adaptation count 116 450
+2020-05-18 11:28:36 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:28:36 INFO Adaptation reactive executor
+2020-05-18 11:28:36 INFO adaptation count 116 460
+2020-05-18 11:29:00 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:29:00 INFO Adaptation reactive executor
+2020-05-18 11:29:00 INFO adaptation count 126 480
+2020-05-18 11:29:15 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:29:15 INFO Adaptation reactive executor
+2020-05-18 11:29:15 INFO adaptation count 126 490
+2020-05-18 11:29:38 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:29:38 INFO Adaptation reactive executor
+2020-05-18 11:29:38 INFO adaptation count 136 510
+2020-05-18 11:29:53 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:29:53 INFO Adaptation reactive executor
+2020-05-18 11:29:53 INFO adaptation count 136 520
+2020-05-18 11:30:16 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:30:16 INFO Adaptation reactive executor
+2020-05-18 11:30:16 INFO adaptation count 137 530
+2020-05-18 11:30:33 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:30:33 INFO Adaptation reactive executor
+2020-05-18 11:30:33 INFO adaptation count 137 540
+2020-05-18 11:30:56 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:30:56 INFO Adaptation reactive executor
+2020-05-18 11:30:56 INFO adaptation count 147 560
+2020-05-18 11:31:12 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:31:12 INFO Adaptation reactive executor
+2020-05-18 11:31:12 INFO adaptation count 147 570
+2020-05-18 11:31:37 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:31:37 INFO Adaptation reactive executor
+2020-05-18 11:31:37 INFO adaptation count 157 590
+2020-05-18 11:31:53 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:31:53 INFO Adaptation reactive executor
+2020-05-18 11:31:53 INFO adaptation count 157 600
+2020-05-18 11:32:16 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:32:16 INFO Adaptation reactive executor
+2020-05-18 11:32:16 INFO adaptation count 158 610
+2020-05-18 11:32:33 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:32:33 INFO Adaptation reactive executor
+2020-05-18 11:32:33 INFO adaptation count 158 620
+2020-05-18 11:32:56 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:32:56 INFO Adaptation reactive executor
+2020-05-18 11:32:56 INFO adaptation count 159 630
+2020-05-18 11:33:15 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:33:15 INFO Adaptation reactive executor
+2020-05-18 11:33:15 INFO adaptation count 159 640
+2020-05-18 11:33:38 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:33:38 INFO Adaptation reactive executor
+2020-05-18 11:33:38 INFO adaptation count 160 650
+2020-05-18 11:33:59 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:33:59 INFO Adaptation reactive executor
+2020-05-18 11:33:59 INFO adaptation count 160 660
+2020-05-18 11:34:25 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:34:25 INFO Adaptation reactive executor
+2020-05-18 11:34:25 INFO adaptation count 170 680
+2020-05-18 11:34:41 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:34:41 INFO Adaptation reactive executor
+2020-05-18 11:34:41 INFO adaptation count 170 690
+2020-05-18 11:35:05 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:35:05 INFO Adaptation reactive executor
+2020-05-18 11:35:05 INFO adaptation count 180 710
+2020-05-18 11:35:20 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:35:20 INFO Adaptation reactive executor
+2020-05-18 11:35:20 INFO adaptation count 180 720
+2020-05-18 11:35:43 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:35:43 INFO Adaptation reactive executor
+2020-05-18 11:35:43 INFO adaptation count 181 730
+2020-05-18 11:36:00 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:36:00 INFO Adaptation reactive executor
+2020-05-18 11:36:00 INFO adaptation count 181 740
+2020-05-18 11:36:25 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:36:25 INFO Adaptation reactive executor
+2020-05-18 11:36:25 INFO adaptation count 191 760
+2020-05-18 11:36:40 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:36:40 INFO Adaptation reactive executor
+2020-05-18 11:36:40 INFO adaptation count 191 770
+2020-05-18 11:37:03 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:37:03 INFO Adaptation reactive executor
+2020-05-18 11:37:03 INFO adaptation count 201 790
+2020-05-18 11:37:18 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:37:18 INFO Adaptation reactive executor
+2020-05-18 11:37:18 INFO adaptation count 201 800
+2020-05-18 11:37:41 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:37:41 INFO Adaptation reactive executor
+2020-05-18 11:37:41 INFO adaptation count 202 810
+2020-05-18 11:37:57 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:37:57 INFO Adaptation reactive executor
+2020-05-18 11:37:57 INFO adaptation count 202 820
+2020-05-18 11:38:22 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:38:22 INFO Adaptation reactive executor
+2020-05-18 11:38:22 INFO adaptation count 212 840
+2020-05-18 11:38:38 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:38:38 INFO Adaptation reactive executor
+2020-05-18 11:38:38 INFO adaptation count 212 850
+2020-05-18 11:39:02 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:39:02 INFO Adaptation reactive executor
+2020-05-18 11:39:02 INFO adaptation count 222 870
+2020-05-18 11:39:19 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:39:19 INFO Adaptation reactive executor
+2020-05-18 11:39:19 INFO adaptation count 222 880
+2020-05-18 11:39:41 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:39:41 INFO Adaptation reactive executor
+2020-05-18 11:39:41 INFO adaptation count 223 890
+2020-05-18 11:39:59 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:39:59 INFO Adaptation reactive executor
+2020-05-18 11:39:59 INFO adaptation count 223 900
+2020-05-18 11:40:24 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:40:24 INFO Adaptation reactive executor
+2020-05-18 11:40:24 INFO adaptation count 233 920
+2020-05-18 11:40:40 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:40:40 INFO Adaptation reactive executor
+2020-05-18 11:40:40 INFO adaptation count 233 930
+2020-05-18 11:41:04 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:41:04 INFO Adaptation reactive executor
+2020-05-18 11:41:04 INFO adaptation count 243 950
+2020-05-18 11:41:18 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:41:18 INFO Adaptation reactive executor
+2020-05-18 11:41:18 INFO adaptation count 243 960
+2020-05-18 11:41:42 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:41:42 INFO Adaptation reactive executor
+2020-05-18 11:41:42 INFO adaptation count 244 970
+2020-05-18 11:42:01 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:42:01 INFO Adaptation reactive executor
+2020-05-18 11:42:01 INFO adaptation count 244 980
+2020-05-18 11:42:25 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:42:25 INFO Adaptation reactive executor
+2020-05-18 11:42:25 INFO adaptation count 254 1000
+2020-05-18 11:42:40 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:42:40 INFO Adaptation reactive executor
+2020-05-18 11:42:40 INFO adaptation count 254 1010
+2020-05-18 11:43:03 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:43:03 INFO Adaptation reactive executor
+2020-05-18 11:43:03 INFO adaptation count 264 1030
+2020-05-18 11:43:18 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:43:18 INFO Adaptation reactive executor
+2020-05-18 11:43:18 INFO adaptation count 264 1040
+2020-05-18 11:43:41 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:43:41 INFO Adaptation reactive executor
+2020-05-18 11:43:41 INFO adaptation count 265 1050
+2020-05-18 11:43:58 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:43:58 INFO Adaptation reactive executor
+2020-05-18 11:43:58 INFO adaptation count 265 1060
+2020-05-18 11:44:23 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:44:23 INFO Adaptation reactive executor
+2020-05-18 11:44:23 INFO adaptation count 275 1080
+2020-05-18 11:44:39 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:44:39 INFO Adaptation reactive executor
+2020-05-18 11:44:39 INFO adaptation count 275 1090
+2020-05-18 11:45:02 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:45:02 INFO Adaptation reactive executor
+2020-05-18 11:45:02 INFO adaptation count 285 1110
+2020-05-18 11:45:18 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:45:18 INFO Adaptation reactive executor
+2020-05-18 11:45:18 INFO adaptation count 285 1120
+2020-05-18 11:45:45 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:45:45 INFO Adaptation reactive executor
+2020-05-18 11:45:45 INFO adaptation count 295 1140
+2020-05-18 11:46:01 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:46:01 INFO Adaptation reactive executor
+2020-05-18 11:46:01 INFO adaptation count 295 1150
+2020-05-18 11:46:25 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:46:25 INFO Adaptation reactive executor
+2020-05-18 11:46:25 INFO adaptation count 305 1170
+2020-05-18 11:46:42 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:46:42 INFO Adaptation reactive executor
+2020-05-18 11:46:42 INFO adaptation count 305 1180
+2020-05-18 11:47:07 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:47:07 INFO Adaptation reactive executor
+2020-05-18 11:47:07 INFO adaptation count 315 1200
+2020-05-18 11:47:24 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:47:24 INFO Adaptation reactive executor
+2020-05-18 11:47:24 INFO adaptation count 315 1210
+2020-05-18 11:47:50 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:47:50 INFO Adaptation reactive executor
+2020-05-18 11:47:50 INFO adaptation count 325 1230
+2020-05-18 11:48:07 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:48:07 INFO Adaptation reactive executor
+2020-05-18 11:48:07 INFO adaptation count 325 1240
+2020-05-18 11:48:35 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:48:35 INFO Adaptation reactive executor
+2020-05-18 11:48:35 INFO adaptation count 335 1260
+2020-05-18 11:48:51 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:48:51 INFO Adaptation reactive executor
+2020-05-18 11:48:51 INFO adaptation count 335 1270
+2020-05-18 11:49:19 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:49:19 INFO Adaptation reactive executor
+2020-05-18 11:49:19 INFO adaptation count 345 1290
+2020-05-18 11:49:35 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:49:35 INFO Adaptation reactive executor
+2020-05-18 11:49:35 INFO adaptation count 345 1300
+2020-05-18 11:50:00 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:50:00 INFO Adaptation reactive executor
+2020-05-18 11:50:00 INFO adaptation count 346 1310
+2020-05-18 11:50:19 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:50:19 INFO Adaptation reactive executor
+2020-05-18 11:50:19 INFO adaptation count 346 1320
+2020-05-18 11:50:46 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:50:46 INFO Adaptation reactive executor
+2020-05-18 11:50:46 INFO adaptation count 356 1340
+2020-05-18 11:51:02 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:51:02 INFO Adaptation reactive executor
+2020-05-18 11:51:02 INFO adaptation count 356 1350
+2020-05-18 11:51:27 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:51:27 INFO Adaptation reactive executor
+2020-05-18 11:51:27 INFO adaptation count 366 1370
+2020-05-18 11:51:45 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:51:45 INFO Adaptation reactive executor
+2020-05-18 11:51:45 INFO adaptation count 366 1380
+2020-05-18 11:52:09 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:52:09 INFO Adaptation reactive executor
+2020-05-18 11:52:09 INFO adaptation count 376 1400
+2020-05-18 11:52:26 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:52:26 INFO Adaptation reactive executor
+2020-05-18 11:52:26 INFO adaptation count 376 1410
+2020-05-18 11:52:51 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:52:51 INFO Adaptation reactive executor
+2020-05-18 11:52:51 INFO adaptation count 377 1420
+2020-05-18 11:53:10 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:53:10 INFO Adaptation reactive executor
+2020-05-18 11:53:10 INFO adaptation count 377 1430
+2020-05-18 11:53:36 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:53:36 INFO Adaptation reactive executor
+2020-05-18 11:53:36 INFO adaptation count 387 1450
+2020-05-18 11:53:54 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:53:54 INFO Adaptation reactive executor
+2020-05-18 11:53:54 INFO adaptation count 387 1460
+2020-05-18 11:54:17 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:54:17 INFO Adaptation reactive executor
+2020-05-18 11:54:17 INFO adaptation count 397 1480
+2020-05-18 11:54:35 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:54:35 INFO Adaptation reactive executor
+2020-05-18 11:54:35 INFO adaptation count 397 1490
+2020-05-18 11:55:01 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:55:01 INFO Adaptation reactive executor
+2020-05-18 11:55:01 INFO adaptation count 407 1510
+2020-05-18 11:55:18 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:55:18 INFO Adaptation reactive executor
+2020-05-18 11:55:18 INFO adaptation count 407 1520
+2020-05-18 11:55:43 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:55:43 INFO Adaptation reactive executor
+2020-05-18 11:55:43 INFO adaptation count 408 1530
+2020-05-18 11:56:00 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:56:00 INFO Adaptation reactive executor
+2020-05-18 11:56:00 INFO adaptation count 408 1540
+2020-05-18 11:56:25 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:56:25 INFO Adaptation reactive executor
+2020-05-18 11:56:25 INFO adaptation count 409 1550
+2020-05-18 11:56:45 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:56:45 INFO Adaptation reactive executor
+2020-05-18 11:56:45 INFO adaptation count 409 1560
+2020-05-18 11:57:09 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:57:09 INFO Adaptation reactive executor
+2020-05-18 11:57:09 INFO adaptation count 410 1570
+2020-05-18 11:57:29 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:57:29 INFO Adaptation reactive executor
+2020-05-18 11:57:29 INFO adaptation count 410 1580
+2020-05-18 11:57:55 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:57:55 INFO Adaptation reactive executor
+2020-05-18 11:57:55 INFO adaptation count 420 1600
+2020-05-18 11:58:12 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:58:12 INFO Adaptation reactive executor
+2020-05-18 11:58:12 INFO adaptation count 420 1610
+2020-05-18 11:58:35 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:58:35 INFO Adaptation reactive executor
+2020-05-18 11:58:35 INFO adaptation count 430 1630
+2020-05-18 11:58:53 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:58:53 INFO Adaptation reactive executor
+2020-05-18 11:58:53 INFO adaptation count 430 1640
+2020-05-18 11:59:20 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:59:20 INFO Adaptation reactive executor
+2020-05-18 11:59:20 INFO adaptation count 440 1660
+2020-05-18 11:59:35 INFO Inside Adaptation Planner --proactive
+2020-05-18 11:59:35 INFO Adaptation reactive executor
+2020-05-18 11:59:35 INFO adaptation count 440 1670
+2020-05-18 12:00:01 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:00:01 INFO Adaptation reactive executor
+2020-05-18 12:00:01 INFO adaptation count 450 1690
+2020-05-18 12:00:17 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:00:17 INFO Adaptation reactive executor
+2020-05-18 12:00:17 INFO adaptation count 450 1700
+2020-05-18 12:00:39 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:00:39 INFO Adaptation reactive executor
+2020-05-18 12:00:39 INFO adaptation count 451 1710
+2020-05-18 12:00:57 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:00:57 INFO Adaptation reactive executor
+2020-05-18 12:00:57 INFO adaptation count 451 1720
+2020-05-18 12:01:21 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:01:21 INFO Adaptation reactive executor
+2020-05-18 12:01:21 INFO adaptation count 461 1740
+2020-05-18 12:01:36 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:01:36 INFO Adaptation reactive executor
+2020-05-18 12:01:36 INFO adaptation count 461 1750
+2020-05-18 12:02:01 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:02:01 INFO Adaptation reactive executor
+2020-05-18 12:02:01 INFO adaptation count 471 1770
+2020-05-18 12:02:18 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:02:18 INFO Adaptation reactive executor
+2020-05-18 12:02:18 INFO adaptation count 471 1780
+2020-05-18 12:02:41 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:02:41 INFO Adaptation reactive executor
+2020-05-18 12:02:41 INFO adaptation count 481 1800
+2020-05-18 12:02:56 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:02:56 INFO Adaptation reactive executor
+2020-05-18 12:02:56 INFO adaptation count 481 1810
+2020-05-18 12:03:20 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:03:20 INFO Adaptation reactive executor
+2020-05-18 12:03:20 INFO adaptation count 491 1830
+2020-05-18 12:03:36 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:03:36 INFO Adaptation reactive executor
+2020-05-18 12:03:36 INFO adaptation count 491 1840
+2020-05-18 12:03:59 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:03:59 INFO Adaptation reactive executor
+2020-05-18 12:03:59 INFO adaptation count 501 1860
+2020-05-18 12:04:15 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:04:15 INFO Adaptation reactive executor
+2020-05-18 12:04:15 INFO adaptation count 501 1870
+2020-05-18 12:04:41 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:04:41 INFO Adaptation reactive executor
+2020-05-18 12:04:41 INFO adaptation count 511 1890
+2020-05-18 12:04:56 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:04:56 INFO Adaptation reactive executor
+2020-05-18 12:04:56 INFO adaptation count 511 1900
+2020-05-18 12:05:19 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:05:19 INFO Adaptation reactive executor
+2020-05-18 12:05:19 INFO adaptation count 521 1920
+2020-05-18 12:05:35 INFO Inside Adaptation Planner --proactive
+2020-05-18 12:05:35 INFO Adaptation reactive executor
+2020-05-18 12:05:35 INFO adaptation count 521 1930
