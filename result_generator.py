@@ -458,8 +458,8 @@ def log_analyzer():
         bar_y_list.append(adaptation_count)
 
     bar_point_list = [0.42,0.41,0.42,0.45,0.25,0.48,0.30,0.35,0.47,0.30,0.48,0.45]
-    bar_x_list=("Reactive","Pro_h5st","Pro_h5mt","Pro_h5lt","Pro_h10st","Pro_h10mt","Pro_h10lt","Pro_h15st","Pro_h15mt",
-                       "Pro_h15lt","Pro_h30st","Pro_h30mt","Pro_h30lt",)
+    bar_x_list=("Reactive","Pro_h5sd","Pro_h5md","Pro_h5ld","Pro_h10sd","Pro_h10md","Pro_h10ld","Pro_h15sd","Pro_h15md",
+                       "Pro_h15ld","Pro_h30sd","Pro_h30md","Pro_h30ld",)
 
     bar_y_list.insert(0,762) # Reactive number of adaptations
     bar_point_list.insert(0,0.58) # Reactive number of adaptations
