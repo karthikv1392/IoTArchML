@@ -1,5 +1,5 @@
 # IoTArchML
-A Machine-learning driven proactive approach for architecting self-adaptive IoT Systems
+A Machine-learning driven proactive approach for architecting self-adaptive energy efficient IoT Systems
 
 ## Installation Requirements
 
