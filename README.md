@@ -44,5 +44,13 @@ Note: To check how to create topics and conusme topics from Kafka, refer to this
 
 ## Execution Instructions 
 
+1. Open CupCarbon master using the IDE and run the cupcarbon.java (It is the main file). It will open the CupCarbon UI. 
+2. Load the NdR_CO Project in the UI using the "Open Project" option from the file menu
+3. Set the simulation time to 86400 seconds and set the log frequency to 60 seconds in simulation section of CupCarbon. The simulation speed can also be adjusted here.
+4. Set the configuration parameters in the settings.conf file by defining all the adaptation and model related configurations
+5. Start the *analyze_adaptation.py* so that it is ready to consume the messages from Kafka
+6. Run the simulation in CupCarbon UI
+7. Start the *CupCarbon_Energy_Streamer.py* to start streaming the data to the kafka streamer
+8. The simulation will run until the time defined in CupCarbon and the adaptation logs will be visible in the latest log file generated in the logs folder
 
-
+**Note:** All the data related to different experiments can be found [here](https://drive.google.com/drive/folders/1B4VCJ0sIUsCNi8dwa5FJC2yvmMCsEH-5?usp=sharing). The NdR_Experiments folder contains the energy consumption and execution logs when running each approach using different decision intervals.
