@@ -53,4 +53,14 @@ Note: To check how to create topics and conusme topics from Kafka, refer to this
 7. Start the *CupCarbon_Energy_Streamer.py* to start streaming the data to the kafka streamer
 8. The simulation will run until the time defined in CupCarbon and the adaptation logs will be visible in the latest log file generated in the logs folder
 
+
+## ML models
+
+The model that performs the best in the *model* folder for each of the horizon are as follows:
+
+1. H = 5, *model_lstm_energy2_v1_H5_colab*
+2. H = 10, *model_lstm_energy2_v5_H10_colab*
+3. H = 15, *model_lstm_energy2_v6_H15_colab*
+4. H = 30, *model_lstm_energy2_v2_H30_colab*
+
 **Note:** All the data related to different experiments can be found [here](https://drive.google.com/drive/folders/1B4VCJ0sIUsCNi8dwa5FJC2yvmMCsEH-5?usp=sharing). The NdR_Experiments folder contains the energy consumption and execution logs when running each approach using different decision intervals.
