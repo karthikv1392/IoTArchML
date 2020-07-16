@@ -1,4 +1,4 @@
-# IoTArchML
+# PIE-ML
 A Machine-learning driven proactive approach for architecting self-adaptive energy efficient IoT Systems
 
 ## Installation Requirements
@@ -39,7 +39,7 @@ Similar to above any other forecasting approaches can be tested using the corres
 14. *analyze_adaptation.py* is responsible for consuming the energy consumption logs from the kafka broker. Further it uses the ML models as defined in the settings.conf to forecast the expected energy consumption of the sensor components. It is then responsible for invoking the Adaptation_Planner. For the ease of simplicity we have added the kafka version here although the main version was implemented using Spark.
 15. *result_generator.py* is used to analyze the results produced by the different approaches and to generate the different types of plots as represented in the paper.
 
-Note: To check how to create topics and conusme topics from Kafka, refer to this [repository](https://github.com/karthikv1392/SoftwareArchitecture). Further the basic kafka commands can be found [here](https://github.com/karthikv1392/IoTArchML/blob/master/kafka_commands.md)
+Note: To check how to create topics and conusme topics from Kafka, refer to this [repository](https://github.com/karthikv1392/SoftwareArchitecture). Further the basic kafka commands can be found [here](https://github.com/karthikv1392/PIE-ML/blob/master/kafka_commands.md)
 
 
 ## Execution Instructions 
